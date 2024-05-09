@@ -14,9 +14,4 @@ To perform multiplication of 100 matrices of size 1000 X 1000 with varying numbe
 
 5. **Results:** Results are displayed in a tabular format using tabulate(). Number of threads are plotted against corresponding time taken using matplotlib.pyplot.plot().
 
-### RESULTS:
-#### Number of threads v/s Time Taken-
-![image](./public/graph.PNG)
-![image](./public/table.PNG)
-
 It is observed that the minimum time is taken when the the number of threads are 7.
